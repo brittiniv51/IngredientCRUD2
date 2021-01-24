@@ -1,2 +1,2 @@
-# IngredientCRUD2
+# FoodCompCapstone
 Created with CodeSandbox
